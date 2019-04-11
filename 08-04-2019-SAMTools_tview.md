@@ -43,12 +43,12 @@ samtools tview sorted.bam                # not to show the refer sequence
 samtools tview sorted.bam referfasta.fa  # show the refer sequence
 ```
 
-**NOTE:** Press 'g' to go to the position you want to view, example: 'chr1:10000'
+**NOTE:** Press **'g'** to go to the position you want to view, example: 'chr1:10000'
 
-​           Press '&larr;' or '&rarr;' to move the window for 1 bp
+​           Press **'&larr;'** or **'&rarr;'** to move the window for 1 bp
 
-​	   Press 'ctrl'+'H' or 'ctrl'+'L' to move the window for 1000bp
+​	   Press **'ctrl'+'H'** or **'ctrl'+'L'** to move the window for 1000bp
 
-​           Use '?' to check more information when using tview.
+​           Use **'?'** to check more information when using tview.
 
 Please refer to http://samtools.sourceforge.net/ for more information 
