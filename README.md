@@ -1,4 +1,4 @@
-# Bioinformatics-notes
+![mzKT1S.png](https://s2.ax1x.com/2019/08/31/mzKT1S.png)
 
 记录一下在从事生物信息学过程中的经验，踩过的坑
 ## 为什么想要写?
@@ -21,4 +21,4 @@ XX-XX-XXXX-关键字/短语，例如：
  - [22-04-2019-Unknow-character](https://github.com/PSSUN/Bioinformatics-notes/blob/master/22-04-2019-Unknow-character.md)
  - [11-06-2019-CD-HIT](https://github.com/PSSUN/Bioinformatics-notes/blob/master/11-06-2019-CD-HIT.md)
 
-![mzKT1S.png](https://s2.ax1x.com/2019/08/31/mzKT1S.png)
+
