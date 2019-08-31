@@ -13,7 +13,7 @@ XX-XX-XXXX-关键字/短语，例如：
 ### 内容
 让不懂得人可以看懂，用markdown语法书写，必要时可附加代码
 ### 语言
-使用中文，因为本身就是给自己看，在英语水平尚且薄弱的时候记录的目的才是最重要的。
+一般使用中文，因为本身就是给自己看，在英语水平尚且薄弱的时候记录的目的才是最重要的。当然，英文也是可以的。
 ***
 ## 目录
  - [07-04-2019-Biopython_Blast](https://github.com/PSSUN/Bioinformatics-notes/blob/master/07-04-2019-Biopython_Blast.md)
