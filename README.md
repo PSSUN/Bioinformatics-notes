@@ -20,5 +20,5 @@ XX-XX-XXXX-关键字/短语，例如：
  - [08-04-2019-SAMTools_tview](https://github.com/PSSUN/Bioinformatics-notes/blob/master/08-04-2019-SAMTools_tview.md)
  - [22-04-2019-Unknow-character](https://github.com/PSSUN/Bioinformatics-notes/blob/master/22-04-2019-Unknow-character.md)
  - [11-06-2019-CD-HIT](https://github.com/PSSUN/Bioinformatics-notes/blob/master/11-06-2019-CD-HIT.md)
-
+ - [19-11-2019-install-rJava](https://github.com/PSSUN/Bioinformatics-notes/blob/master/19-11-2019-install-rJava.md)
 
