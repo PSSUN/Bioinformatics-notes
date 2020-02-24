@@ -16,9 +16,9 @@ XX-XX-XXXX-关键字/短语，例如：
 一般使用中文，因为本身就是给自己看，在英语水平尚且薄弱的时候记录的目的才是最重要的。当然，英文也是可以的。
 ***
 ## 目录
- - [07-04-2019-Biopython_Blast](https://github.com/PSSUN/Bioinformatics-notes/blob/master/07-04-2019-Biopython_Blast.md)
- - [08-04-2019-SAMTools_tview](https://github.com/PSSUN/Bioinformatics-notes/blob/master/08-04-2019-SAMTools_tview.md)
- - [22-04-2019-Unknow-character](https://github.com/PSSUN/Bioinformatics-notes/blob/master/22-04-2019-Unknow-character.md)
- - [11-06-2019-CD-HIT](https://github.com/PSSUN/Bioinformatics-notes/blob/master/11-06-2019-CD-HIT.md)
- - [19-11-2019-install-rJava](https://github.com/PSSUN/Bioinformatics-notes/blob/master/19-11-2019-install-rJava.md)
- - [24-02-2020-ReadtheDocs+sphinx.md](https://github.com/PSSUN/Bioinformatics-notes/blob/master/24-02-2020-ReadtheDocs+sphinx.md)
+ - [2019-04-07-Biopython_Blast](https://github.com/PSSUN/Bioinformatics-notes/blob/master/07-04-2019-Biopython_Blast.md)
+ - [2019-04-08-SAMTools_tview](https://github.com/PSSUN/Bioinformatics-notes/blob/master/08-04-2019-SAMTools_tview.md)
+ - [2019-04-22-Unknow-character](https://github.com/PSSUN/Bioinformatics-notes/blob/master/22-04-2019-Unknow-character.md)
+ - [2019-06-11-CD-HIT](https://github.com/PSSUN/Bioinformatics-notes/blob/master/11-06-2019-CD-HIT.md)
+ - [2019-11-19-install-rJava](https://github.com/PSSUN/Bioinformatics-notes/blob/master/19-11-2019-install-rJava.md)
+ - [2020-02-24-ReadtheDocs+sphinx.md](https://github.com/PSSUN/Bioinformatics-notes/blob/master/24-02-2020-ReadtheDocs+sphinx.md)
